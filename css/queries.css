@@ -19,7 +19,6 @@
 
     .about {
         line-height: 2.5rem;
-        margin-top: 50px;
     }
 }
 
@@ -149,12 +148,12 @@
 
     .projects {
         width: 100%;
-        height: 200vh;
+        height: 240vh;
         margin-top: 250px;
     }
 
     .comment {
-        margin-top: 240px;
+        margin-top: 10px;
         height: 30vh;
     }
 
@@ -204,17 +203,13 @@
 
     .projects {
         width: 100%;
-        height: 200vh;
+        height: 230vh;
         margin-top: 100px;
     }
 
     .btn {
         width: max-content;
         font-size: 1rem;
-    }
-
-    .comment {
-        height: 50vh;
     }
 
     .comment h1, input, button{
