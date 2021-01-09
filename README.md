@@ -11,7 +11,7 @@
 
 ## General info
 It is a concept personal web site work that shows who you are and what you have done for a now.
-Note : The photo that I have used in the project dosen't belong to me.
+Note : The photo that I have used in the project doesn't belong to me.
 
 ## Link
 You can access the website from this link;
@@ -29,7 +29,5 @@ https://personalp.netlify.app/
 ## Status
 Project is: finished.
 
-
 ## Contact
 Created by [@gurhangursoy](https://www.linkedin.com/in/gurhan-gursoy/) - feel free to contact me!
-
