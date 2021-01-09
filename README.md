@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-It is a concept personal web site work that shows who you are and what you have done for a now.
+It is a concept personal web site work that shows who you are and what you have done up to now.
 Note : The photo that I have used in the project doesn't belong to me.
 
 ## Link
