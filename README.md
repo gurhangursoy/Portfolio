@@ -18,7 +18,7 @@ You can access the website from this link;
 https://personalp.netlify.app/
 
 ## Screenshots
-![screencast-personalp netlify app-2021 01 09-15_08_31](https://user-images.githubusercontent.com/73755991/104091249-3f40a680-528d-11eb-96b7-2642c6dfb12b.gif)
+![Portfolio project](https://user-images.githubusercontent.com/73755991/104091873-5b464700-5291-11eb-98b5-ae6955373e74.gif)
 
 ## Technologies
 * JAVASCRIPT
